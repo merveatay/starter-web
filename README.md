@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 
 2022
 fork this repo and issue pull request.
+all rights reserved(stash)
