@@ -3,3 +3,5 @@
 User-agent: *
 x and y
 
+#thanks
+    thank you
